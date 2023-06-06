@@ -1,2 +1,5 @@
-ccl label vic pty ltd	printed label	var - purchase price rm (auto)	etikette privigen 20g 200ml at de	etikette privigen 20g 200ml at de	direct materials	packaging	labels
+
+	cg_normalized_vendor	material group description	g/l acct long text	short text	text	PO_L1	PO_L2	PO_L3	
+0	PIVOT TECHNOLOGY SERVICES CORP	Computers	Trade Creditors GR/IR (Auto)	StarTech.com 18U Server Rack Cabinet	StarTech.com 18U Server Rack Cabinet	Information Technology Broadcasting and Telecommunications	Computer Equipment and Accessories	Computer Equipment and Accessories	
+
 
